@@ -1,0 +1,31 @@
+.home-bg {
+  background: url("../img/home-bg.png");
+  background-size: cover;
+  height: 100vh;
+}
+.auth-bg {
+  background: url("../img/login-img.svg");
+  background-size: cover;
+}
+
+.fp-bg {
+  background: url("../img/fg-bg.png");
+  background-size: cover;
+}
+
+.profil-bg {
+  background: url("../img/bg-profil.svg");
+  background-size: cover;
+  height: 100vh;
+}
+.bg-history {
+  background: url("../img/bg-history.svg") no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.cart-bg {
+  background: url("../img/cart-bg.svg") no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
